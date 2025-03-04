@@ -34,9 +34,9 @@ source_aarch64=("zen-browser-$pkgver-aarch64.tar.bz2::https://github.com/zen-bro
 source=("$_pkgname.sh"
   "$_desktopname.desktop"
   "policies.json")
-sha256sums=('642bcde5b15fddb712d10ed53299781108a265432237ab27a96c5c5c489718db'
-  'a6371aa853b095d1c223f955e97a390b905abe5bcba38bbddd17408dd46fec94'
-  'f93eb77db526147a8a20744905923a6eda79e2fbcc9f282e2f9228a7a995c798')
+sha256sums=('c1a4ad7fd56600947b17733684aea6dec2e4cc42396b1be628def8d4be47ac6b'
+            'e097b7707638b4a5776ba59431596ede1b8cf5e7413e8f33716e19ed1f307f03'
+            '7c9fc215ed5f7fb608e07b05c0b9c6e1ea80a9801b5fecacae35fb3287d4e619')
 sha256sums_x86_64=('b4bec09c67eb4b0d86f4ca1b2b4a065f9217bbf0836f0ef82462ae285ad80b47')
 sha256sums_aarch64=('026981bbe03c97ebd39e3458b197346686f362a5e6cf0cde0629205fde7b3d1d')
 
