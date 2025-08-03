@@ -1,4 +1,4 @@
-pkgbase = zen-compat-bin
+pkgbase = zen-browser-compat-bin
 	pkgdesc = Performance oriented Firefox-based web browser
 	pkgver = 1.14.7b
 	pkgrel = 1
@@ -33,4 +33,4 @@ pkgbase = zen-compat-bin
 	source_aarch64 = zen-browser-1.14.7b-1-aarch64.tar.xz::https://github.com/zen-browser/desktop/releases/download/1.14.7b/zen.linux-aarch64.tar.xz
 	sha256sums_aarch64 = 23c084b8a7d05bd6adb87c81f79a1b1d3929025c49b87729024f3b6bfbbd98df
 
-pkgname = zen-compat-bin
+pkgname = zen-browser-compat-bin
