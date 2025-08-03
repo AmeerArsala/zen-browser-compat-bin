@@ -8,7 +8,7 @@
 # Contributor: Det <nimetonmaili g-mail>, Achilleas Pipinellis, speed145a, Schnouki, aus
 # Contributor: Ameer Arsala <ameer.arsala03@gmail.com>
 
-pkgname=zen-compat-bin
+pkgname=zen-browser-compat-bin
 _pkgname=zen-browser
 _desktopname=zen
 pkgver=1.14.7b
