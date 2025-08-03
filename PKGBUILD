@@ -8,7 +8,7 @@
 # Contributor: Det <nimetonmaili g-mail>, Achilleas Pipinellis, speed145a, Schnouki, aus
 # Contributor: Ameer Arsala <ameer.arsala03@gmail.com>
 
-pkgname=zen-browser-compat-bin
+pkgname=zen-compat-bin
 _pkgname=zen-browser
 _desktopname=zen
 pkgver=1.14.7b
@@ -35,8 +35,8 @@ source=("$_pkgname.sh"
   "$_desktopname.desktop"
   "policies.json")
 sha256sums=('c1a4ad7fd56600947b17733684aea6dec2e4cc42396b1be628def8d4be47ac6b'
-            'aa44bc42f783074c9510ec1253df43b5e0191da1f08b63277bc8eb5cbd56b83f'
-            '7c9fc215ed5f7fb608e07b05c0b9c6e1ea80a9801b5fecacae35fb3287d4e619')
+  'aa44bc42f783074c9510ec1253df43b5e0191da1f08b63277bc8eb5cbd56b83f'
+  '7c9fc215ed5f7fb608e07b05c0b9c6e1ea80a9801b5fecacae35fb3287d4e619')
 sha256sums_x86_64=('9ec98f3925f045c9f2776ab57d2639a193e1acd0cb9e1692747786f9a815a98d')
 sha256sums_aarch64=('23c084b8a7d05bd6adb87c81f79a1b1d3929025c49b87729024f3b6bfbbd98df')
 
